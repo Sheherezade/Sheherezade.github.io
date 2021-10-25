@@ -3,11 +3,11 @@
   <title>Cool Code</title>
   
   <subtitle>一只咸鱼</subtitle>
-  <link href="https://github.com/Sheherezade/Sheherezade.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Sheherezade/Sheherezade.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2021-10-25T02:50:48.134Z</updated>
-  <id>https://github.com/Sheherezade/Sheherezade.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>ssd</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Unity中的Object和object</title>
-    <link href="https://github.com/Sheherezade/Sheherezade.github.io/2021/10/24/20211024/"/>
-    <id>https://github.com/Sheherezade/Sheherezade.github.io/2021/10/24/20211024/</id>
+    <link href="http://example.com/2021/10/24/20211024/"/>
+    <id>http://example.com/2021/10/24/20211024/</id>
     <published>2021-10-24T14:24:00.000Z</published>
     <updated>2021-10-25T02:50:48.134Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="https://github.com/Sheherezade/Sheherezade.github.io/2021/09/01/test-my-site/"/>
-    <id>https://github.com/Sheherezade/Sheherezade.github.io/2021/09/01/test-my-site/</id>
+    <link href="http://example.com/2021/09/01/test-my-site/"/>
+    <id>http://example.com/2021/09/01/test-my-site/</id>
     <published>2021-09-01T13:34:20.000Z</published>
     <updated>2021-09-01T13:34:20.087Z</updated>
     
@@ -51,8 +51,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Sheherezade/Sheherezade.github.io/2021/09/01/hello-world/"/>
-    <id>https://github.com/Sheherezade/Sheherezade.github.io/2021/09/01/hello-world/</id>
+    <link href="http://example.com/2021/09/01/hello-world/"/>
+    <id>http://example.com/2021/09/01/hello-world/</id>
     <published>2021-09-01T13:33:16.126Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
