@@ -287,7 +287,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const $goUp = document.getElementById('go-up')
     if (perNum < 95) {
       $goUp.classList.add('show-percent')
-      $goUp.querySelector('.scroll-percent').textContent = perNum
+      $goUp.querySelector('.scroll-percent').textContent = perNum + '%'
     } else {
       $goUp.classList.remove('show-percent')
     }
