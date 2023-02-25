@@ -1,5 +1,6 @@
 /* 颜色 */
 :root {
+    --acc-main: var(--acc-theme);
     --anzhiyu-theme-op: #4259ef23;
     --anzhiyu-card-bg-none: rgba(255, 255, 255, 0);
     --anzhiyu-main-op-deep: var(--anzhiyu-theme-op-deep) !important;
@@ -42,6 +43,7 @@
   }
   
   [data-theme="light"] {
+    --acc-theme: #92c4fd;
     --anzhiyu-theme-op-deep: #4259efdd;
     --global-bg: #f7f9fe;
     --anzhiyu-theme: #3b70fc;
@@ -73,6 +75,7 @@
   }
   
   [data-theme="dark"] {
+    --acc-theme: #036b9b;
     --anzhiyu-theme-op-deep: #0084ffdd;
     --global-bg: #18171d;
     --anzhiyu-theme: #0084ff;
